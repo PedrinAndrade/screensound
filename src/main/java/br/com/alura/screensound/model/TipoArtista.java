@@ -4,4 +4,6 @@ public enum TipoArtista {
     SOLO,
     DUPLA,
     BANDA;
+
+
 }
